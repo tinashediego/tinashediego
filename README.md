@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tinashediego
+- 👋 Hi, I’m @tinashediego (tinlee)
 - 👀 I’m interested in MEAN STACK
 - 🌱 I’m currently learning Springboot
 - 💞️ I’m looking to collaborate on MEA(R)N STACK PROJECTS
