@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinashediego (tinlee)
 - 👀 I’m interested in MEAN STACK
-- 🌱 I’m currently learning Springboot
+- 🌱 I’m currently in love with Springboot
 - 💞️ I’m looking to collaborate on MEA(R)N STACK PROJECTS
 - 📫 How to reach me tinashediego@gmail.com/+263783538292 
 
