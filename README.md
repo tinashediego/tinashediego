@@ -1,10 +1,88 @@
-- 👋 Hi, I’m @tinashediego (tinlee)
-- 👀 I’m interested in MEAN STACK
-- 🌱 I’m currently in love with Springboot
-- 💞️ I’m looking to collaborate on MEA(R)N STACK PROJECTS
-- 📫 How to reach me tinashediego@gmail.com/+263783538292 
+🚀 Hi, I’m Winner Tinashe Diego (Tinlee)
 
-<!---
-tinashediego/tinashediego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Software Engineer & Data Enthusiast crafting scalable web apps, microservices, and intelligent data-driven systems.
+
+🔥 Tech Stack & Tools
+Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backend & Languages
+
+
+
+
+
+
+
+
+
+
+Databases
+
+
+
+
+
+
+DevOps & Tools
+
+
+
+
+
+
+
+
+AI, Data & Big Data
+
+
+
+
+
+
+
+
+
+
+💼 What I’m Building
+
+Spring Boot microservices
+
+Next.js + Django + Docker systems
+
+Kafka/RabbitMQ event-driven apps
+
+AI/ML models and analytics dashboards
+
+🤝 Collaboration Interests
+
+Full-stack React/Next.js/Angular work
+
+Spring Boot + Microservices
+
+AI/ML and Data Engineering
+
+DevOps and scalable deployments
+
+📫 Connect With Me
+
+📧 tinashediego@gmail.com
+
+📞 +263 78 353 8292
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tinashediego&theme=radical)
