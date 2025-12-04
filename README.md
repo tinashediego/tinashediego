@@ -1,6 +1,6 @@
 ⭐ About Me
 
-I’m Winner Tinashe Diego (Tinlee) — a passionate Software Engineer, Data Enthusiast, and AI Explorer with a love for building fast, scalable, and modern digital experiences.
+I’m Winner Tinashe Diego (Tinlee), a passionate Software Engineer, Data Enthusiast, and AI Explorer with a love for building fast, scalable, and modern digital experiences.
 I enjoy working across the stack: from crafting elegant front-end interfaces to engineering powerful backend services and deploying production-ready systems.
 
 My work blends software engineering, data, and AI, allowing me to design solutions that are intelligent, efficient, and user-focused. I’m constantly leveling up, learning modern technologies, and contributing to meaningful projects that make a real impact.
