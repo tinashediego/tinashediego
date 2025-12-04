@@ -1,15 +1,15 @@
-⭐ About Me
+## ⭐ About Me
 
 I’m Winner Tinashe Diego (Tinlee), a passionate Software Engineer, Data Enthusiast, and AI Explorer with a love for building fast, scalable, and modern digital experiences.
 I enjoy working across the stack: from crafting elegant front-end interfaces to engineering powerful backend services and deploying production-ready systems.
 
 My work blends software engineering, data, and AI, allowing me to design solutions that are intelligent, efficient, and user-focused. I’m constantly leveling up, learning modern technologies, and contributing to meaningful projects that make a real impact.
 
-What Drives Me
+## What Drives Me
 
 Solving complex problems with clean, elegant code
 
-Designing systems that scale — both technically and in business value
+Designing systems that scale, both technically and in business value
 
 Learning and mastering powerful technologies like AI, ML, PySpark, and microservices
 
@@ -17,7 +17,7 @@ Turning ideas into real-world applications
 
 Helping teams grow through collaboration and knowledge-sharing
 
-What Makes Me Unique
+## What Makes Me Unique
 
 Full-stack capability (frontend + backend + databases + DevOps)
 
@@ -29,7 +29,7 @@ Passion for AI, ML, data analytics, and automation
 
 Ability to transition between engineering, data, and product thinking
 
-If you're working on something exciting — whether it's full-stack software, AI/ML, data systems, or microservices. I’d love to connect and collaborate.
+If you're working on something exciting, whether it's full-stack software, AI/ML, data systems, or microservices. I’d love to connect and collaborate.
 
 
 
