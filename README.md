@@ -4,7 +4,7 @@ I’m Winner Tinashe Diego (tinlee), a passionate Software Engineer, Data Enthus
 I enjoy working across the stack: from crafting elegant front-end interfaces to engineering powerful backend services and deploying production-ready systems.
 
 My work blends software engineering, data, and AI, allowing me to design solutions that are intelligent, efficient, and user-focused. I’m constantly leveling up, learning modern technologies, and contributing to meaningful projects that make a real impact.
-
+##Beta
 ## What Drives Me
 
 Solving complex problems with clean, elegant code
